@@ -1,0 +1,501 @@
+ProductID,Category,SubCategory,ProductName,CostPrice,SellingPrice
+PROD0001,Office Supplies,Paper,"Shenoy, Dubey and Dara Paper",6300.38,10456.26
+PROD0002,Office Supplies,Paper,"Srinivas, Deo and Krish Paper",13969.0,15676.24
+PROD0003,Electronics,Phone,Ram Inc Phone,1215.16,1996.46
+PROD0004,Electronics,Headphones,"Bandi, Borah and Bassi Headphones",3713.91,6413.88
+PROD0005,Office Supplies,Paper,Mandal-Bhandari Paper,16582.22,19656.12
+PROD0006,Furniture,Table,Kunda-Luthra Table,15447.38,21781.93
+PROD0007,Electronics,Phone,Chawla-Boase Phone,9270.61,15200.99
+PROD0008,Furniture,Table,Sane-Biswas Table,7843.55,13905.44
+PROD0009,Office Supplies,Pen,Bora-Grewal Pen,12620.37,14255.09
+PROD0010,Electronics,Tablet,Loke-Mane Tablet,9676.47,12668.14
+PROD0011,Office Supplies,Notebook,Sastry-Joshi Notebook,17286.79,21650.87
+PROD0012,Electronics,Phone,Rout Ltd Phone,12694.89,16848.14
+PROD0013,Furniture,Sofa,Dhingra-Sachdev Sofa,11735.47,16160.51
+PROD0014,Furniture,Chair,Dhingra-Sanghvi Chair,19379.82,29200.62
+PROD0015,Clothing,Jeans,Shah and Sons Jeans,7490.83,8709.11
+PROD0016,Furniture,Table,"Keer, Dhawan and Krishnan Table",1918.89,2941.76
+PROD0017,Electronics,Laptop,Shah-Dayal Laptop,7174.8,8665.31
+PROD0018,Electronics,Phone,"Sharma, Kala and Sha Phone",9808.07,12963.5
+PROD0019,Office Supplies,Paper,Bhat Ltd Paper,14690.46,16379.08
+PROD0020,Clothing,Jacket,Bal-Rama Jacket,14515.54,18514.39
+PROD0021,Electronics,Headphones,Bhatt PLC Headphones,14161.86,21119.83
+PROD0022,Clothing,Jeans,Chanda LLC Jeans,11377.36,16844.57
+PROD0023,Office Supplies,Paper,"Dixit, Kar and Mandal Paper",5578.96,9383.5
+PROD0024,Furniture,Chair,"Madan, Thaman and Viswanathan Chair",10669.63,15092.93
+PROD0025,Office Supplies,Printer,Saraf-Guha Printer,9136.17,15012.03
+PROD0026,Clothing,Jeans,Maharaj-Bansal Jeans,17670.35,27103.03
+PROD0027,Office Supplies,Pen,Ahuja Inc Pen,6481.81,7417.39
+PROD0028,Clothing,Jeans,Sampath and Sons Jeans,10528.99,15248.97
+PROD0029,Furniture,Sofa,"Basu, Banik and Chandran Sofa",6519.74,10096.68
+PROD0030,Electronics,Laptop,Rao-Edwin Laptop,10511.69,12053.5
+PROD0031,Furniture,Desk,"Rana, Karpe and Rajagopal Desk",17482.51,21703.76
+PROD0032,Clothing,Jeans,Bhasin LLC Jeans,2065.2,3097.2
+PROD0033,Clothing,Shoes,Chokshi-Goyal Shoes,10563.85,16806.24
+PROD0034,Office Supplies,Notebook,Sampath-Dutta Notebook,7390.44,11264.27
+PROD0035,Electronics,Laptop,Saini LLC Laptop,18611.2,23191.73
+PROD0036,Clothing,T-Shirt,"Master, Jhaveri and Sankar T-Shirt",9414.38,14566.32
+PROD0037,Office Supplies,Paper,Tripathi Group Paper,16458.33,27254.58
+PROD0038,Electronics,Tablet,Gandhi Ltd Tablet,10627.51,17152.91
+PROD0039,Office Supplies,Notebook,"Bora, Shan and Behl Notebook",18897.61,33494.33
+PROD0040,Electronics,Laptop,Dani Ltd Laptop,14530.92,21391.88
+PROD0041,Furniture,Desk,Vora-Saraf Desk,10571.22,13469.15
+PROD0042,Furniture,Table,Salvi-Deep Table,14947.56,24460.16
+PROD0043,Office Supplies,Paper,"Sankar, Bhatti and Datta Paper",14080.75,19698.3
+PROD0044,Electronics,Phone,Raman-Gill Phone,15869.99,23566.55
+PROD0045,Office Supplies,Pen,Barman and Sons Pen,10724.62,16300.79
+PROD0046,Office Supplies,Printer,"Koshy, Sawhney and Chaudhary Printer",11046.62,19859.56
+PROD0047,Office Supplies,Paper,Choudhry PLC Paper,15307.27,21451.79
+PROD0048,Office Supplies,Pen,Kale Inc Pen,11306.58,14130.39
+PROD0049,Office Supplies,Printer,Ganguly LLC Printer,19236.87,27186.5
+PROD0050,Clothing,T-Shirt,"Buch, Bhardwaj and Doctor T-Shirt",14553.63,26022.9
+PROD0051,Electronics,Phone,Sahota PLC Phone,19868.9,26053.87
+PROD0052,Office Supplies,Pen,Chandra LLC Pen,4374.97,5776.86
+PROD0053,Office Supplies,Pen,"Chokshi, Sundaram and Sule Pen",1976.31,2810.82
+PROD0054,Furniture,Desk,"Lalla, Sunder and Lalla Desk",5373.26,9256.72
+PROD0055,Furniture,Desk,Thaker PLC Desk,5199.25,6812.12
+PROD0056,Clothing,Jeans,Agrawal-Desai Jeans,14711.89,23634.74
+PROD0057,Clothing,Jeans,Madan LLC Jeans,9816.7,16976.18
+PROD0058,Electronics,Tablet,Bora-Cherian Tablet,843.69,1405.45
+PROD0059,Clothing,T-Shirt,"Walia, Yogi and Krishnan T-Shirt",15624.43,27269.47
+PROD0060,Office Supplies,Printer,Kothari-Kapoor Printer,17607.87,24721.68
+PROD0061,Electronics,Phone,Choudhary PLC Phone,14978.81,25383.61
+PROD0062,Electronics,Headphones,Venkataraman-Shenoy Headphones,1177.15,1726.96
+PROD0063,Office Supplies,Pen,Subramanian PLC Pen,6603.95,10489.97
+PROD0064,Furniture,Chair,Wason-Venkatesh Chair,13505.34,24284.72
+PROD0065,Clothing,T-Shirt,Lall-Rajan T-Shirt,4519.5,5888.22
+PROD0066,Clothing,Jeans,Taneja Group Jeans,2730.56,3161.39
+PROD0067,Electronics,Headphones,Choudhry-Hegde Headphones,5324.9,7342.87
+PROD0068,Clothing,Jeans,Bahl-Kara Jeans,15264.46,21929.62
+PROD0069,Furniture,Table,Golla Group Table,7966.84,11949.71
+PROD0070,Furniture,Desk,"Soni, Sahni and Viswanathan Desk",1525.72,2507.89
+PROD0071,Office Supplies,Notebook,Lal-Kuruvilla Notebook,2339.34,3250.53
+PROD0072,Office Supplies,Printer,Kapur Group Printer,3890.75,5218.15
+PROD0073,Electronics,Tablet,Dyal Inc Tablet,3468.18,4664.01
+PROD0074,Clothing,Jeans,"Golla, Sahni and Kapoor Jeans",8865.22,15487.09
+PROD0075,Furniture,Desk,Zachariah-Badami Desk,13738.65,16612.69
+PROD0076,Electronics,Laptop,Dave-Upadhyay Laptop,14817.67,18820.42
+PROD0077,Furniture,Sofa,Chanda LLC Sofa,373.29,591.91
+PROD0078,Electronics,Tablet,Sathe-Chaudhuri Tablet,9056.23,10106.06
+PROD0079,Furniture,Desk,Soni Group Desk,4155.65,6093.37
+PROD0080,Office Supplies,Paper,Thakkar LLC Paper,12498.54,22430.02
+PROD0081,Electronics,Headphones,Sangha-Jaggi Headphones,11701.8,18307.11
+PROD0082,Electronics,Tablet,Sandhu LLC Tablet,3489.36,4532.01
+PROD0083,Office Supplies,Notebook,"Vyas, Bala and Srinivas Notebook",9352.72,16475.97
+PROD0084,Electronics,Headphones,"Sur, Rajan and Yadav Headphones",13241.42,20710.73
+PROD0085,Office Supplies,Notebook,Kannan Ltd Notebook,479.66,818.87
+PROD0086,Clothing,Jeans,Sehgal LLC Jeans,19597.88,28534.09
+PROD0087,Electronics,Tablet,Savant-Basu Tablet,9744.78,14792.33
+PROD0088,Electronics,Phone,"Varma, Sehgal and Char Phone",4057.62,7209.39
+PROD0089,Electronics,Laptop,Bandi Group Laptop,5023.1,7386.92
+PROD0090,Office Supplies,Paper,"Ravi, Mahajan and Agarwal Paper",7928.66,9592.91
+PROD0091,Office Supplies,Printer,Thakkar Inc Printer,7172.02,9407.02
+PROD0092,Office Supplies,Notebook,Chhabra PLC Notebook,12553.27,21529.79
+PROD0093,Electronics,Tablet,Kaur and Sons Tablet,4589.1,6145.95
+PROD0094,Clothing,Jeans,"Gokhale, Srinivasan and De Jeans",1847.12,2526.02
+PROD0095,Furniture,Table,"Bhagat, Vohra and Lanka Table",4883.18,5893.63
+PROD0096,Office Supplies,Printer,Kaur-Shanker Printer,9038.47,10776.03
+PROD0097,Furniture,Desk,Sundaram Inc Desk,17265.49,22726.55
+PROD0098,Furniture,Table,"Kale, Gaba and Vaidya Table",19914.15,35507.8
+PROD0099,Furniture,Desk,Manda Ltd Desk,6418.17,9563.96
+PROD0100,Electronics,Phone,Sahota Ltd Phone,6420.19,11015.42
+PROD0101,Electronics,Tablet,Balasubramanian PLC Tablet,17614.62,24481.29
+PROD0102,Clothing,Jacket,Bassi PLC Jacket,8915.79,15635.07
+PROD0103,Office Supplies,Pen,Dhawan and Sons Pen,15604.25,18330.94
+PROD0104,Furniture,Chair,Chaudhry PLC Chair,15272.7,23342.6
+PROD0105,Office Supplies,Pen,Arya-Joshi Pen,11967.58,15098.76
+PROD0106,Electronics,Tablet,Tripathi Group Tablet,1681.56,2767.64
+PROD0107,Furniture,Table,Sabharwal-Solanki Table,14269.18,19431.36
+PROD0108,Clothing,Shoes,"Bava, Dara and Yadav Shoes",9529.55,11575.07
+PROD0109,Furniture,Chair,Sathe-Wable Chair,8230.92,14635.98
+PROD0110,Office Supplies,Paper,Rau and Sons Paper,4528.83,7109.98
+PROD0111,Furniture,Desk,Walla PLC Desk,1416.11,2476.74
+PROD0112,Clothing,Shoes,Agate PLC Shoes,13788.47,23533.37
+PROD0113,Furniture,Table,D’Alia Inc Table,8156.85,9211.35
+PROD0114,Clothing,Jacket,Koshy LLC Jacket,7943.6,13960.06
+PROD0115,Electronics,Laptop,"Som, Kunda and Bahri Laptop",9087.03,15256.28
+PROD0116,Electronics,Phone,Gade LLC Phone,10422.18,14350.59
+PROD0117,Electronics,Headphones,Krishna-Dugal Headphones,10370.92,15986.3
+PROD0118,Electronics,Phone,Salvi-Kade Phone,5894.47,8126.28
+PROD0119,Office Supplies,Printer,"Venkatesh, Sood and Mangat Printer",9280.81,12953.44
+PROD0120,Electronics,Phone,"Tailor, Ramanathan and Verma Phone",9325.22,14475.27
+PROD0121,Electronics,Laptop,"Rege, Ramesh and Taneja Laptop",3677.45,5552.26
+PROD0122,Furniture,Table,Sridhar-Contractor Table,8329.83,11791.87
+PROD0123,Furniture,Table,Sami-Tiwari Table,11847.28,18941.95
+PROD0124,Furniture,Table,"Ganguly, Chandra and Brar Table",1894.58,2513.83
+PROD0125,Furniture,Chair,"Thakur, Mammen and Ranganathan Chair",1914.71,3052.73
+PROD0126,Office Supplies,Notebook,Bansal and Sons Notebook,10523.96,14405.84
+PROD0127,Furniture,Table,Warrior-Barad Table,11051.88,12496.74
+PROD0128,Furniture,Sofa,Zachariah-Ben Sofa,11353.28,17730.09
+PROD0129,Furniture,Desk,Gala Group Desk,17389.49,21305.72
+PROD0130,Electronics,Headphones,Sinha Ltd Headphones,6230.44,10037.94
+PROD0131,Clothing,Jacket,Sunder-Tripathi Jacket,12566.41,14857.11
+PROD0132,Furniture,Desk,Divan Ltd Desk,170.3,278.57
+PROD0133,Electronics,Headphones,Keer-Bora Headphones,10002.79,14494.54
+PROD0134,Electronics,Headphones,Shere-Deo Headphones,4833.78,7309.66
+PROD0135,Clothing,Shoes,Malhotra-Aurora Shoes,8262.01,9547.44
+PROD0136,Electronics,Phone,Sarma-Gulati Phone,17655.14,22857.74
+PROD0137,Furniture,Chair,Sastry-Sen Chair,3778.32,4301.79
+PROD0138,Office Supplies,Notebook,"Kapur, Bali and Swamy Notebook",2992.95,3360.19
+PROD0139,Office Supplies,Printer,"Seshadri, Chand and Mani Printer",18415.66,20889.29
+PROD0140,Clothing,Jeans,Balay-Rau Jeans,3310.57,4300.65
+PROD0141,Furniture,Table,Deo Ltd Table,15011.76,20297.88
+PROD0142,Electronics,Laptop,"Kant, Sengupta and Bhandari Laptop",15393.39,20411.25
+PROD0143,Clothing,T-Shirt,Ram Ltd T-Shirt,15193.0,25680.98
+PROD0144,Electronics,Tablet,Deshpande PLC Tablet,9469.26,11225.01
+PROD0145,Office Supplies,Printer,Shetty Inc Printer,10588.35,15535.78
+PROD0146,Furniture,Chair,"Amble, Varkey and Kurian Chair",2275.11,3664.77
+PROD0147,Electronics,Headphones,"Seth, Mane and Handa Headphones",14509.08,22102.33
+PROD0148,Office Supplies,Paper,Baria-Kothari Paper,12216.01,16143.97
+PROD0149,Office Supplies,Pen,Chaudhary-Singhal Pen,12324.37,17839.25
+PROD0150,Clothing,Shoes,Rege LLC Shoes,16178.81,27804.33
+PROD0151,Furniture,Sofa,Dewan-Kunda Sofa,19587.23,21567.63
+PROD0152,Electronics,Headphones,"Chawla, Swamy and Gill Headphones",12546.67,14837.04
+PROD0153,Furniture,Table,Bhatia-Roy Table,8339.42,11121.91
+PROD0154,Furniture,Chair,Bhandari Inc Chair,12848.3,20339.01
+PROD0155,Office Supplies,Notebook,Tiwari-Sangha Notebook,6224.67,9054.92
+PROD0156,Office Supplies,Notebook,"Cherian, Babu and Karan Notebook",2365.35,3153.72
+PROD0157,Clothing,T-Shirt,"Bassi, Chowdhury and Deol T-Shirt",16657.65,20585.71
+PROD0158,Office Supplies,Paper,Goyal-Bose Paper,18331.64,30395.29
+PROD0159,Furniture,Table,Ganesan PLC Table,3192.19,4540.67
+PROD0160,Office Supplies,Paper,Savant-Chandra Paper,15701.38,21821.26
+PROD0161,Electronics,Tablet,"Khalsa, Talwar and Char Tablet",11342.36,17861.25
+PROD0162,Electronics,Phone,Sandal Group Phone,11590.21,15440.52
+PROD0163,Office Supplies,Notebook,Sarraf-Sur Notebook,19395.3,25142.55
+PROD0164,Electronics,Tablet,Jaggi Ltd Tablet,19674.01,30269.6
+PROD0165,Furniture,Table,Sankar-Acharya Table,3828.84,4524.89
+PROD0166,Office Supplies,Printer,Chaudhari Inc Printer,14225.82,18351.99
+PROD0167,Electronics,Headphones,Sehgal-Guha Headphones,17553.27,23874.35
+PROD0168,Office Supplies,Pen,"Boase, Shroff and Sabharwal Pen",10549.5,12896.86
+PROD0169,Office Supplies,Notebook,"Barad, Bansal and Kumar Notebook",15578.03,27095.61
+PROD0170,Clothing,T-Shirt,Bal-Agrawal T-Shirt,16000.6,27736.55
+PROD0171,Furniture,Desk,Thaker-Reddy Desk,6868.31,9879.59
+PROD0172,Office Supplies,Printer,Biswas Ltd Printer,2951.57,5047.95
+PROD0173,Furniture,Desk,Bath and Sons Desk,14518.96,20639.54
+PROD0174,Electronics,Laptop,Bhat Inc Laptop,6288.53,7111.2
+PROD0175,Electronics,Tablet,"Garde, Gupta and Rajan Tablet",9390.83,10633.22
+PROD0176,Office Supplies,Notebook,Gill LLC Notebook,11593.44,15285.95
+PROD0177,Furniture,Sofa,Raman-Dugal Sofa,4091.05,5320.81
+PROD0178,Office Supplies,Paper,Grover-Tak Paper,13455.37,17368.97
+PROD0179,Furniture,Sofa,Loyal-Seth Sofa,2377.76,4210.56
+PROD0180,Electronics,Phone,Mahajan Inc Phone,10896.32,16176.2
+PROD0181,Office Supplies,Pen,Sibal-Gala Pen,18871.23,31379.12
+PROD0182,Furniture,Desk,"Sanghvi, Samra and Bhatt Desk",1517.73,2321.04
+PROD0183,Office Supplies,Paper,"Ganguly, Saraf and Randhawa Paper",1109.45,1242.91
+PROD0184,Electronics,Laptop,Vyas LLC Laptop,7733.63,8973.2
+PROD0185,Clothing,Jeans,Dewan PLC Jeans,14123.08,24346.68
+PROD0186,Clothing,Jacket,Badal Group Jacket,6317.57,10564.3
+PROD0187,Electronics,Headphones,Bera-Saraf Headphones,11399.01,13280.32
+PROD0188,Clothing,T-Shirt,Kapadia and Sons T-Shirt,9166.12,14474.54
+PROD0189,Clothing,Shoes,"Kibe, Sathe and Warrior Shoes",4710.71,5919.74
+PROD0190,Office Supplies,Printer,"Gaba, Garde and Bir Printer",7902.33,12562.57
+PROD0191,Office Supplies,Printer,"Malhotra, Dubey and Mannan Printer",9120.33,10225.58
+PROD0192,Clothing,T-Shirt,"Chaudhry, Bala and Gola T-Shirt",7093.67,10093.36
+PROD0193,Furniture,Sofa,Bawa and Sons Sofa,15382.04,23428.51
+PROD0194,Furniture,Chair,"Trivedi, Anand and Raja Chair",8173.15,13076.97
+PROD0195,Electronics,Tablet,"Amble, Lala and Goyal Tablet",11167.38,12838.54
+PROD0196,Office Supplies,Paper,Banerjee-Balakrishnan Paper,8076.25,11221.22
+PROD0197,Furniture,Desk,Lala Ltd Desk,19480.45,26662.34
+PROD0198,Office Supplies,Pen,"Comar, Badal and Chatterjee Pen",16296.92,24668.31
+PROD0199,Clothing,Jacket,Gopal-Bora Jacket,10936.08,13837.51
+PROD0200,Electronics,Headphones,"Behl, Sastry and Khanna Headphones",2375.02,3603.51
+PROD0201,Office Supplies,Notebook,Madan Group Notebook,16458.26,20133.75
+PROD0202,Clothing,T-Shirt,Kalita LLC T-Shirt,12005.36,18966.74
+PROD0203,Clothing,Jacket,Kurian Inc Jacket,9936.47,15521.91
+PROD0204,Electronics,Phone,"Choudhury, Tata and Sur Phone",16358.97,28155.15
+PROD0205,Electronics,Phone,Gandhi-Agrawal Phone,13251.54,18778.52
+PROD0206,Office Supplies,Paper,Chowdhury-Khosla Paper,12349.89,17450.54
+PROD0207,Furniture,Sofa,"Thaker, Bumb and Sathe Sofa",6064.73,10043.45
+PROD0208,Office Supplies,Paper,Ratti PLC Paper,14384.05,25036.63
+PROD0209,Electronics,Laptop,Balan PLC Laptop,12268.67,17879.09
+PROD0210,Furniture,Sofa,Chadha-Kara Sofa,1341.97,2322.62
+PROD0211,Electronics,Laptop,"Hegde, Lala and Sandal Laptop",14096.75,23605.39
+PROD0212,Office Supplies,Notebook,"Lala, Lad and Vasa Notebook",17238.83,29409.03
+PROD0213,Furniture,Table,"Warrior, Ramakrishnan and Deep Table",14074.22,19365.96
+PROD0214,Office Supplies,Paper,"Soman, Dutt and Babu Paper",8180.05,11489.97
+PROD0215,Furniture,Desk,"Sachdev, Chatterjee and Jaggi Desk",9549.94,11763.22
+PROD0216,Clothing,Jacket,Biswas and Sons Jacket,16815.26,20312.62
+PROD0217,Furniture,Desk,Bhatti-Lall Desk,330.89,514.16
+PROD0218,Furniture,Table,Baral Group Table,13192.74,23515.83
+PROD0219,Furniture,Chair,Sachdev and Sons Chair,2830.68,4710.7
+PROD0220,Clothing,Shoes,Acharya-Ray Shoes,12502.64,17729.69
+PROD0221,Clothing,Shoes,"Wali, Yadav and Varma Shoes",7755.82,9756.97
+PROD0222,Clothing,T-Shirt,"Dugar, Chakrabarti and Edwin T-Shirt",11600.98,19637.71
+PROD0223,Furniture,Sofa,Contractor-Ganesh Sofa,8275.67,12267.16
+PROD0224,Office Supplies,Notebook,Chokshi-Gopal Notebook,19566.85,29305.36
+PROD0225,Office Supplies,Notebook,Sankaran-Sura Notebook,11647.35,20653.27
+PROD0226,Electronics,Phone,Tiwari PLC Phone,14630.69,21484.96
+PROD0227,Office Supplies,Paper,"Gopal, Anne and Sandhu Paper",10387.3,15231.41
+PROD0228,Electronics,Phone,Dey LLC Phone,9501.79,15385.11
+PROD0229,Electronics,Tablet,"Ranganathan, Sha and Solanki Tablet",12299.48,21308.97
+PROD0230,Electronics,Headphones,Mall and Sons Headphones,9135.29,15842.77
+PROD0231,Office Supplies,Paper,Dass-Sodhi Paper,7123.0,12710.51
+PROD0232,Office Supplies,Printer,"Sharma, Mand and Venkatesh Printer",3433.41,5447.23
+PROD0233,Office Supplies,Printer,"Lad, Dave and Bail Printer",1322.21,1892.36
+PROD0234,Furniture,Chair,Sant-Som Chair,13160.77,17164.63
+PROD0235,Electronics,Tablet,"Datta, Manda and Sen Tablet",9746.73,11586.67
+PROD0236,Electronics,Tablet,Dyal-Badal Tablet,5115.81,7832.6
+PROD0237,Office Supplies,Printer,Datta LLC Printer,382.64,450.78
+PROD0238,Furniture,Desk,Hans-Rout Desk,13217.2,17960.02
+PROD0239,Furniture,Sofa,"Barad, Sharma and Virk Sofa",15672.3,19830.74
+PROD0240,Furniture,Chair,Chatterjee and Sons Chair,6922.68,8023.95
+PROD0241,Furniture,Desk,Thakur LLC Desk,16768.52,27281.26
+PROD0242,Clothing,Shoes,"Banerjee, Rastogi and Raman Shoes",4835.15,6808.52
+PROD0243,Furniture,Desk,Badami-Gaba Desk,11597.37,19591.24
+PROD0244,Electronics,Tablet,Agarwal-Vyas Tablet,15134.13,17876.37
+PROD0245,Furniture,Table,Kadakia-Bala Table,8035.02,10533.57
+PROD0246,Furniture,Table,"Apte, Hari and Grover Table",13701.85,18813.32
+PROD0247,Office Supplies,Pen,"Sundaram, Chahal and Sawhney Pen",10655.8,14964.09
+PROD0248,Office Supplies,Paper,Borra-Srivastava Paper,7701.88,10174.05
+PROD0249,Electronics,Laptop,Mandal-Subramaniam Laptop,18362.47,28391.99
+PROD0250,Clothing,Jacket,Jhaveri Group Jacket,6765.85,8707.39
+PROD0251,Electronics,Tablet,"Sani, Shan and Sachar Tablet",13121.43,18026.32
+PROD0252,Furniture,Desk,"Savant, Mammen and Agate Desk",10447.05,16447.86
+PROD0253,Furniture,Sofa,"Wable, Comar and Magar Sofa",10997.49,17276.63
+PROD0254,Electronics,Laptop,Goel-Sampath Laptop,8283.85,12158.08
+PROD0255,Clothing,Jacket,"Sha, Batra and Sur Jacket",4466.38,5798.74
+PROD0256,Furniture,Chair,Dora and Sons Chair,571.64,665.59
+PROD0257,Furniture,Chair,Ghosh-Bali Chair,14190.69,16801.55
+PROD0258,Furniture,Table,"Anand, Trivedi and Shere Table",13162.25,22769.75
+PROD0259,Furniture,Chair,Sheth-Mandal Chair,13943.51,17810.53
+PROD0260,Clothing,T-Shirt,Wason and Sons T-Shirt,12811.73,22367.83
+PROD0261,Office Supplies,Paper,"Raval, Sharaf and Dada Paper",13875.21,21746.69
+PROD0262,Office Supplies,Printer,Sheth-Konda Printer,3323.12,3827.56
+PROD0263,Electronics,Headphones,"Sarraf, Saha and Barad Headphones",7832.95,14077.15
+PROD0264,Office Supplies,Printer,Sibal-Sule Printer,3640.8,4181.75
+PROD0265,Furniture,Table,"Sarraf, Borde and Lall Table",3651.0,5273.65
+PROD0266,Furniture,Table,"Seshadri, Ganesan and Thakur Table",4445.89,6892.63
+PROD0267,Clothing,Jacket,Baria-Sridhar Jacket,2155.41,2480.97
+PROD0268,Office Supplies,Paper,"Cheema, Datta and Chatterjee Paper",473.42,685.7
+PROD0269,Electronics,Laptop,Batta and Sons Laptop,13325.66,17143.54
+PROD0270,Office Supplies,Paper,Chhabra-Goda Paper,11535.34,16850.46
+PROD0271,Clothing,Shoes,"Bassi, Balay and Balan Shoes",8777.55,14841.38
+PROD0272,Electronics,Phone,"Hans, Sarma and Bhasin Phone",165.82,293.15
+PROD0273,Clothing,T-Shirt,"Kale, Saha and Bhattacharyya T-Shirt",11388.15,19980.85
+PROD0274,Office Supplies,Printer,"Chada, Doctor and Malhotra Printer",13668.53,18868.45
+PROD0275,Electronics,Tablet,"Kara, Bora and Tara Tablet",10739.06,19036.57
+PROD0276,Electronics,Headphones,Zacharia-Baral Headphones,15233.02,19848.18
+PROD0277,Furniture,Desk,"Acharya, Loke and Zacharia Desk",11134.06,19788.11
+PROD0278,Furniture,Sofa,Choudhary-Behl Sofa,13948.06,24095.59
+PROD0279,Office Supplies,Paper,"Doshi, Garg and Tandon Paper",1788.76,2759.97
+PROD0280,Furniture,Desk,"Ganguly, Yadav and Hora Desk",810.4,905.83
+PROD0281,Furniture,Table,Grewal PLC Table,7836.47,12968.71
+PROD0282,Office Supplies,Paper,Dugal Group Paper,10725.41,18061.32
+PROD0283,Clothing,T-Shirt,Bhandari PLC T-Shirt,837.15,953.71
+PROD0284,Electronics,Headphones,Goyal-Krishnan Headphones,2451.92,4082.38
+PROD0285,Clothing,Jeans,Sane Ltd Jeans,14846.92,18753.0
+PROD0286,Electronics,Laptop,Goda-Wali Laptop,14735.65,21252.14
+PROD0287,Electronics,Headphones,Ganesh-Bahri Headphones,18152.86,27825.8
+PROD0288,Furniture,Desk,"Banerjee, Chanda and Uppal Desk",385.87,595.34
+PROD0289,Office Supplies,Notebook,Badami-Contractor Notebook,9178.07,11192.5
+PROD0290,Electronics,Laptop,Krish-Zachariah Laptop,2372.18,3597.37
+PROD0291,Furniture,Chair,Krishnamurthy-Ganguly Chair,16108.63,22525.47
+PROD0292,Clothing,Jacket,Behl Group Jacket,2503.97,3953.42
+PROD0293,Furniture,Sofa,"Badami, Tella and Bedi Sofa",16744.9,27715.68
+PROD0294,Electronics,Phone,Batta-Sarkar Phone,6776.52,8026.94
+PROD0295,Furniture,Table,Sinha and Sons Table,3444.21,4680.51
+PROD0296,Furniture,Table,Dua Group Table,4948.53,7459.36
+PROD0297,Furniture,Chair,"Walia, Sur and Chandran Chair",15841.94,24436.77
+PROD0298,Clothing,Jeans,Gaba and Sons Jeans,411.04,592.26
+PROD0299,Electronics,Laptop,"Deo, Dhar and Kalla Laptop",3670.32,4266.38
+PROD0300,Office Supplies,Paper,Anne-Dalal Paper,13900.72,22999.69
+PROD0301,Clothing,Jeans,Gour and Sons Jeans,4202.59,6505.1
+PROD0302,Clothing,Shoes,Issac and Sons Shoes,4861.15,5941.22
+PROD0303,Electronics,Phone,"Kale, Saran and Bajaj Phone",14372.26,21967.06
+PROD0304,Electronics,Tablet,Dugar-Chacko Tablet,7022.29,7746.98
+PROD0305,Furniture,Desk,Sane-Sastry Desk,2438.41,3587.24
+PROD0306,Electronics,Tablet,Vyas-Badal Tablet,17268.35,30923.25
+PROD0307,Furniture,Table,Dugar and Sons Table,15429.59,24093.75
+PROD0308,Office Supplies,Notebook,Reddy-Taneja Notebook,3955.01,6555.94
+PROD0309,Clothing,Shoes,"Swamy, Bandi and Sura Shoes",3608.84,5662.63
+PROD0310,Electronics,Laptop,Krish PLC Laptop,12932.73,16806.67
+PROD0311,Clothing,Jacket,Din-Sharaf Jacket,6752.46,11233.44
+PROD0312,Clothing,T-Shirt,Sarin-Gaba T-Shirt,2177.98,2475.75
+PROD0313,Furniture,Desk,Kapur-Sood Desk,15731.29,22645.87
+PROD0314,Electronics,Laptop,Sethi-Dubey Laptop,17912.08,28748.57
+PROD0315,Office Supplies,Paper,"Toor, Savant and Ramanathan Paper",4055.15,6381.98
+PROD0316,Office Supplies,Pen,Suri LLC Pen,15601.61,20723.5
+PROD0317,Electronics,Phone,"Kumer, Shenoy and Dube Phone",14781.18,25259.86
+PROD0318,Clothing,Jeans,"Bhatnagar, Dara and Tiwari Jeans",1563.24,2359.81
+PROD0319,Electronics,Headphones,"Jani, Devi and Kata Headphones",2984.33,5221.15
+PROD0320,Clothing,Jeans,Sandhu-Sehgal Jeans,7807.87,9334.18
+PROD0321,Furniture,Sofa,"Batra, Mani and Deshmukh Sofa",19513.56,24227.01
+PROD0322,Furniture,Chair,Sha LLC Chair,13874.99,15841.86
+PROD0323,Furniture,Chair,Golla and Sons Chair,17047.86,24225.1
+PROD0324,Furniture,Sofa,Sankaran-Vora Sofa,4475.09,5847.21
+PROD0325,Furniture,Desk,Devan LLC Desk,11604.62,17255.25
+PROD0326,Furniture,Chair,Contractor Ltd Chair,8292.75,12150.85
+PROD0327,Furniture,Table,Rajagopal Group Table,16756.08,21706.15
+PROD0328,Clothing,Jeans,"Sarna, Deo and Saran Jeans",5031.85,7064.59
+PROD0329,Furniture,Desk,"Devan, Venkatesh and Zachariah Desk",18283.72,31608.46
+PROD0330,Clothing,T-Shirt,Madan Ltd T-Shirt,897.17,1282.47
+PROD0331,Electronics,Headphones,Wali-Bora Headphones,10669.32,15315.69
+PROD0332,Electronics,Headphones,"Bera, Dutt and Sura Headphones",9956.17,11530.88
+PROD0333,Electronics,Headphones,Basak PLC Headphones,19003.68,22669.46
+PROD0334,Office Supplies,Pen,Gulati and Sons Pen,12988.04,15111.72
+PROD0335,Clothing,Jacket,"Kalla, Koshy and Srinivasan Jacket",3319.88,4719.2
+PROD0336,Electronics,Headphones,Dash Group Headphones,9328.84,11166.96
+PROD0337,Clothing,Jeans,Sant-Wadhwa Jeans,15818.19,21501.58
+PROD0338,Clothing,T-Shirt,Bhakta-Tara T-Shirt,17221.61,19796.05
+PROD0339,Office Supplies,Notebook,Rege-Gade Notebook,6002.14,9765.61
+PROD0340,Furniture,Chair,Kashyap-Banik Chair,12447.06,16616.65
+PROD0341,Electronics,Tablet,Dora Inc Tablet,17770.76,20928.21
+PROD0342,Office Supplies,Paper,"Tandon, Vaidya and Barman Paper",12420.76,16841.31
+PROD0343,Furniture,Chair,Warrior LLC Chair,11259.09,18481.83
+PROD0344,Furniture,Sofa,Grewal and Sons Sofa,4848.79,5719.1
+PROD0345,Clothing,Jeans,Garde-Kota Jeans,15088.15,24633.22
+PROD0346,Office Supplies,Printer,Lall Inc Printer,17968.87,26099.72
+PROD0347,Clothing,Jacket,Brahmbhatt-Deshpande Jacket,1183.75,1611.05
+PROD0348,Clothing,Shoes,Ram Group Shoes,10078.86,16939.46
+PROD0349,Clothing,Jacket,Manne-Wali Jacket,9094.37,12347.45
+PROD0350,Electronics,Phone,"Swamy, Basu and Sridhar Phone",17848.87,25354.53
+PROD0351,Electronics,Headphones,Ranganathan LLC Headphones,17969.12,23393.29
+PROD0352,Electronics,Laptop,De-Lata Laptop,3378.85,3981.69
+PROD0353,Furniture,Table,Sangha and Sons Table,3094.91,3846.91
+PROD0354,Electronics,Tablet,"Kakar, Jani and Chakraborty Tablet",8389.08,13235.3
+PROD0355,Furniture,Table,"Tank, Kara and Saxena Table",6999.33,9873.97
+PROD0356,Electronics,Tablet,Goel Inc Tablet,3862.31,4308.12
+PROD0357,Furniture,Sofa,"Swamy, Sem and Kar Sofa",8292.67,11111.8
+PROD0358,Office Supplies,Paper,Gokhale and Sons Paper,11907.81,18907.27
+PROD0359,Clothing,Shoes,Gola Ltd Shoes,6151.24,7334.54
+PROD0360,Office Supplies,Pen,"Iyer, Wagle and Singhal Pen",15806.43,19896.3
+PROD0361,Office Supplies,Printer,"Balakrishnan, Rege and Sehgal Printer",15418.02,17470.52
+PROD0362,Office Supplies,Printer,Karan PLC Printer,9172.94,11158.46
+PROD0363,Furniture,Sofa,"Sura, Devan and Bahl Sofa",3727.38,4557.66
+PROD0364,Furniture,Desk,Amble-Dixit Desk,4834.32,5457.01
+PROD0365,Office Supplies,Pen,Saran-Madan Pen,8873.68,12057.29
+PROD0366,Furniture,Chair,Bhalla-Taneja Chair,13344.51,23814.82
+PROD0367,Furniture,Sofa,"Jaggi, Arya and Singhal Sofa",9023.74,16087.76
+PROD0368,Office Supplies,Notebook,"Badami, Bahri and Ratti Notebook",18416.64,25473.78
+PROD0369,Clothing,Jeans,Viswanathan Inc Jeans,18961.0,33171.66
+PROD0370,Furniture,Chair,Singh-Dey Chair,19405.99,28765.54
+PROD0371,Office Supplies,Printer,Das and Sons Printer,9530.82,12417.51
+PROD0372,Furniture,Table,"Goda, Wali and Krish Table",6839.82,8061.56
+PROD0373,Clothing,T-Shirt,"Chatterjee, Bhatia and Dani T-Shirt",2874.52,4270.59
+PROD0374,Office Supplies,Notebook,"Grewal, Handa and Kar Notebook",8092.44,13665.01
+PROD0375,Clothing,Jacket,Tandon-Saha Jacket,1940.37,2209.16
+PROD0376,Furniture,Desk,Saini-Sehgal Desk,15647.54,25614.5
+PROD0377,Furniture,Chair,Mahal Inc Chair,1763.43,2988.34
+PROD0378,Electronics,Headphones,"Thaker, Sahota and Varma Headphones",3969.56,5249.47
+PROD0379,Electronics,Tablet,"Ram, Kalla and Swaminathan Tablet",8011.4,12827.65
+PROD0380,Clothing,Jacket,"Hari, Bassi and Amble Jacket",7783.64,8628.43
+PROD0381,Office Supplies,Printer,"Kulkarni, Basak and Wali Printer",6230.9,8797.43
+PROD0382,Electronics,Phone,Tella Ltd Phone,14584.28,20577.75
+PROD0383,Clothing,Shoes,Singhal LLC Shoes,5843.82,9723.95
+PROD0384,Clothing,Shoes,Sunder-Kashyap Shoes,2877.4,4347.83
+PROD0385,Electronics,Phone,"Magar, Bhatnagar and Dara Phone",4234.9,6065.35
+PROD0386,Office Supplies,Notebook,"Khurana, Sibal and Ramachandran Notebook",18669.74,28256.19
+PROD0387,Clothing,T-Shirt,"Soni, Bava and Bal T-Shirt",231.72,358.51
+PROD0388,Office Supplies,Paper,Kota Inc Paper,3580.37,5096.6
+PROD0389,Furniture,Desk,"Krishnamurthy, Saraf and Dhillon Desk",3801.53,5197.6
+PROD0390,Clothing,T-Shirt,"Sarna, Kapoor and Mand T-Shirt",16473.7,21603.53
+PROD0391,Office Supplies,Paper,Sarkar-Zacharia Paper,11229.69,15995.75
+PROD0392,Electronics,Laptop,"Chaudhry, Dara and Hari Laptop",3165.08,4146.63
+PROD0393,Clothing,T-Shirt,Rao Inc T-Shirt,13110.88,22614.7
+PROD0394,Clothing,Jeans,Mangal-Sur Jeans,9888.54,15638.63
+PROD0395,Furniture,Chair,Shetty-Issac Chair,2475.16,3202.99
+PROD0396,Electronics,Tablet,Kumar-Ranganathan Tablet,11663.21,17447.02
+PROD0397,Office Supplies,Paper,Dani-Handa Paper,19487.75,32599.04
+PROD0398,Office Supplies,Notebook,"Dutt, Raju and Loke Notebook",16921.07,20542.06
+PROD0399,Electronics,Phone,"Manda, Viswanathan and Luthra Phone",6461.65,11080.58
+PROD0400,Furniture,Sofa,Sekhon Group Sofa,3349.85,4324.22
+PROD0401,Clothing,Jacket,Ahluwalia-Shenoy Jacket,1069.43,1394.71
+PROD0402,Electronics,Phone,Chana-Dutta Phone,15352.2,18856.7
+PROD0403,Electronics,Phone,Sha PLC Phone,10919.88,18680.75
+PROD0404,Office Supplies,Printer,Dora-Dani Printer,13740.33,21735.04
+PROD0405,Electronics,Tablet,Kapur-Kala Tablet,16483.96,18281.18
+PROD0406,Office Supplies,Printer,Sangha-Rama Printer,15598.28,21656.59
+PROD0407,Furniture,Chair,"Virk, Gupta and Uppal Chair",4435.74,6442.33
+PROD0408,Furniture,Chair,Kadakia Ltd Chair,8405.19,14635.3
+PROD0409,Electronics,Phone,Madan-Zacharia Phone,18475.85,26525.09
+PROD0410,Office Supplies,Printer,Brahmbhatt-Yohannan Printer,2866.38,4039.75
+PROD0411,Office Supplies,Pen,"Kumar, Sachdeva and Sachdev Pen",14226.91,15936.01
+PROD0412,Electronics,Phone,"Sathe, Dubey and Gara Phone",2661.42,4220.93
+PROD0413,Furniture,Sofa,"Banik, Kibe and Kapur Sofa",2594.35,3090.27
+PROD0414,Electronics,Headphones,Golla LLC Headphones,13847.28,22831.68
+PROD0415,Electronics,Laptop,Master PLC Laptop,15516.38,25293.78
+PROD0416,Electronics,Phone,Brahmbhatt-Khosla Phone,2245.57,3716.73
+PROD0417,Electronics,Headphones,Shroff-Chokshi Headphones,2466.55,3150.05
+PROD0418,Electronics,Tablet,"Rana, Wable and Thaker Tablet",13384.97,21793.21
+PROD0419,Electronics,Phone,"Sehgal, Sarin and Jayaraman Phone",11793.3,14623.89
+PROD0420,Office Supplies,Notebook,"Subramaniam, Anne and Thakur Notebook",1906.51,3226.01
+PROD0421,Office Supplies,Printer,"Buch, Sami and Rout Printer",7108.85,12075.07
+PROD0422,Furniture,Chair,Cheema-Loyal Chair,2072.2,3118.03
+PROD0423,Electronics,Phone,Gola and Sons Phone,14344.65,25461.53
+PROD0424,Furniture,Chair,Reddy-Bahl Chair,19474.24,22766.94
+PROD0425,Furniture,Table,Deshpande-Handa Table,7392.61,11181.81
+PROD0426,Clothing,T-Shirt,"Chakrabarti, Walla and Luthra T-Shirt",3698.89,4987.49
+PROD0427,Clothing,Shoes,Tiwari-Khare Shoes,4364.05,5495.6
+PROD0428,Electronics,Tablet,Bala-Karan Tablet,2559.95,3013.63
+PROD0429,Furniture,Table,"Mahal, Trivedi and Subramaniam Table",15269.25,24328.67
+PROD0430,Electronics,Laptop,"Ray, Gola and Wali Laptop",6629.5,7829.48
+PROD0431,Office Supplies,Paper,"Trivedi, Shah and Dalal Paper",12047.75,15883.81
+PROD0432,Clothing,Jeans,"Garde, Bava and Sekhon Jeans",11122.93,14497.77
+PROD0433,Clothing,Jeans,Mand Ltd Jeans,17149.8,29606.18
+PROD0434,Clothing,Jacket,Sule-Raval Jacket,3668.02,6599.16
+PROD0435,Clothing,T-Shirt,Mangat Ltd T-Shirt,7987.76,11708.97
+PROD0436,Electronics,Laptop,Dua-Varkey Laptop,2953.01,4076.44
+PROD0437,Electronics,Phone,"Mander, Raman and Dayal Phone",1387.74,2473.85
+PROD0438,Office Supplies,Pen,"Mandal, Krish and Arora Pen",11939.72,21413.45
+PROD0439,Electronics,Phone,Acharya-Amble Phone,16778.37,26973.58
+PROD0440,Office Supplies,Printer,"Sethi, Solanki and Varma Printer",15150.43,25160.15
+PROD0441,Clothing,Jacket,Savant Group Jacket,9568.94,14565.99
+PROD0442,Clothing,Shoes,"Ratti, Kadakia and Shanker Shoes",10277.15,12365.08
+PROD0443,Clothing,T-Shirt,Wason-Sarin T-Shirt,2531.58,3651.9
+PROD0444,Furniture,Desk,Iyer-Shetty Desk,691.5,1117.78
+PROD0445,Electronics,Headphones,Mangat-Basak Headphones,13594.34,24204.05
+PROD0446,Clothing,Jacket,Cherian-Date Jacket,3139.46,4820.25
+PROD0447,Electronics,Laptop,Sahota-Ghose Laptop,13255.5,19405.58
+PROD0448,Clothing,Shoes,Sathe-Dugal Shoes,4118.44,6439.04
+PROD0449,Clothing,Jacket,Saini LLC Jacket,10894.52,18157.21
+PROD0450,Electronics,Laptop,Kulkarni PLC Laptop,19815.16,34004.56
+PROD0451,Electronics,Headphones,Solanki-Bandi Headphones,9057.3,15370.35
+PROD0452,Clothing,Shoes,"Chahal, Hora and Deo Shoes",816.02,998.65
+PROD0453,Office Supplies,Pen,Koshy-Sodhi Pen,9880.44,11798.65
+PROD0454,Clothing,Shoes,Gour-Dube Shoes,15303.82,22928.16
+PROD0455,Clothing,Shoes,Srinivasan Inc Shoes,9570.63,16251.37
+PROD0456,Electronics,Headphones,"Kanda, Issac and Samra Headphones",5341.48,8085.57
+PROD0457,Clothing,Jacket,Sur Inc Jacket,15352.77,19944.88
+PROD0458,Electronics,Laptop,Bedi-Rout Laptop,11850.22,14098.66
+PROD0459,Office Supplies,Printer,Ramaswamy-Shere Printer,16210.11,24457.44
+PROD0460,Office Supplies,Paper,Goda Inc Paper,2037.27,2733.2
+PROD0461,Office Supplies,Paper,Dass Ltd Paper,7090.26,11081.14
+PROD0462,Furniture,Desk,Brahmbhatt-Mani Desk,12996.85,19687.27
+PROD0463,Electronics,Tablet,Divan LLC Tablet,2377.98,2898.39
+PROD0464,Office Supplies,Notebook,"Sunder, Krish and Ray Notebook",9272.1,15802.98
+PROD0465,Clothing,Jacket,Toor-Bal Jacket,506.01,722.98
+PROD0466,Electronics,Tablet,"Hans, Chokshi and Varty Tablet",7616.98,10459.72
+PROD0467,Electronics,Headphones,Vaidya-Dalal Headphones,2091.13,3288.46
+PROD0468,Office Supplies,Paper,"Jayaraman, Tiwari and Gill Paper",10105.09,16526.19
+PROD0469,Office Supplies,Pen,Sanghvi LLC Pen,12335.07,16705.8
+PROD0470,Clothing,Jeans,Chatterjee Group Jeans,9989.34,16913.29
+PROD0471,Electronics,Phone,Manne-Kalita Phone,5818.38,6593.81
+PROD0472,Clothing,Jeans,Ratti-Lala Jeans,12528.99,22183.31
+PROD0473,Electronics,Tablet,Bains and Sons Tablet,5539.96,8290.55
+PROD0474,Clothing,Shoes,Kapadia-Kothari Shoes,4273.81,7081.52
+PROD0475,Office Supplies,Printer,"Raval, Basak and Krishna Printer",8714.92,12880.33
+PROD0476,Furniture,Table,Chaudhuri-Ghose Table,8105.79,12462.45
+PROD0477,Clothing,Jeans,Sarma-Sibal Jeans,17629.84,27140.98
+PROD0478,Furniture,Table,Som-Viswanathan Table,4337.76,7692.94
+PROD0479,Clothing,Jacket,Bhargava-Kaur Jacket,18749.54,27616.26
+PROD0480,Clothing,T-Shirt,Chakraborty-Edwin T-Shirt,10493.16,14218.15
+PROD0481,Furniture,Desk,"Ghose, Soni and Dass Desk",3094.41,4888.28
+PROD0482,Office Supplies,Paper,"Ramanathan, Ben and Chaudhuri Paper",8264.18,14066.71
+PROD0483,Electronics,Phone,"Hora, Kala and Dar Phone",16934.74,21792.54
+PROD0484,Office Supplies,Pen,"Chakrabarti, Hora and Walia Pen",5203.29,7913.49
+PROD0485,Clothing,Jeans,Dutt-Konda Jeans,2359.82,2912.82
+PROD0486,Furniture,Sofa,Balay Ltd Sofa,9336.78,13929.33
+PROD0487,Clothing,Shoes,Savant LLC Shoes,12973.75,14607.18
+PROD0488,Furniture,Sofa,"Bala, Soman and Mammen Sofa",2814.97,3605.63
+PROD0489,Office Supplies,Pen,Chopra and Sons Pen,12921.45,14595.59
+PROD0490,Clothing,T-Shirt,Majumdar-Rau T-Shirt,1201.01,2074.81
+PROD0491,Office Supplies,Printer,Yadav-Jaggi Printer,17356.72,30034.11
+PROD0492,Clothing,Jacket,Chakraborty-Ahluwalia Jacket,13466.27,23162.03
+PROD0493,Clothing,Jeans,Rajagopal-Bedi Jeans,4797.22,7194.3
+PROD0494,Electronics,Tablet,"Upadhyay, Reddy and Bandi Tablet",9979.38,11607.76
+PROD0495,Electronics,Tablet,Chanda Ltd Tablet,6652.79,10039.25
+PROD0496,Clothing,Jeans,Dhawan-Kale Jeans,18716.45,23444.34
+PROD0497,Electronics,Phone,"Saran, Babu and Mander Phone",4360.76,5634.9
+PROD0498,Clothing,Jacket,Hayre-Borra Jacket,17271.71,19675.03
+PROD0499,Office Supplies,Notebook,Bhattacharyya-Konda Notebook,6398.15,8935.96
+PROD0500,Furniture,Sofa,Kumar PLC Sofa,17600.73,30904.78
